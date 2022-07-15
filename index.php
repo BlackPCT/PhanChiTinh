@@ -399,8 +399,8 @@ include_once("connection.php");
                             <a href="./index.html"><img src="ATNtoy/Logo.png" alt=""></a>
                         </div>
                         <ul>
-                            <li>Phone: 0911878047 </li>
-                            <li>Email: anhpnngcc19180@fpt.edu.vn</li>
+                            <li>Phone: 0869342505 </li>
+                            <li>Email: tinhpcgcc19218@fpt.edu.vn</li>
                         </ul>
                     </div>
                 </div>
